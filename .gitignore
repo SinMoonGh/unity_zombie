@@ -1,6 +1,8 @@
 # my gitignore file
-Library/PackageCache/
+Library/
 Temp/
+Logs/
+UserSettings/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
