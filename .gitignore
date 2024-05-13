@@ -1,3 +1,7 @@
+# my gitignore file
+Library/PackageCache/
+Temp/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
